@@ -1,0 +1,16 @@
+body {
+    font-family: fantasy;
+    background: #a49a9a;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 18px;
+    width: 400px;
+}
+
+.reclist {
+    padding: 32px;
+    font-size: 20px;
+    background-color: #90a0ab;
+}
